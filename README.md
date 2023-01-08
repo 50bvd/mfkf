@@ -1,4 +1,4 @@
-![alt text](https://github.com/50bvd/mfkf/blob/main/icon/icons8-powershell-240.png)
+![pwsh](https://github.com/50bvd/mfkf/blob/main/icon/icons8-powershell-240.png)
 # MSI Function key fixer
 ### Your `FN + F4/F5/F7` hotkeys stopped working after a MSI center update?
 Use this script to patch this problem
@@ -8,5 +8,5 @@ This is a bug that has been hanging around for a while in the MSI SDK. It's a bu
 
 # To execute the script
 1. Go to your windows search bar and type `powershell`, right click and run as administrator
-2. When your terminal is launched, execute the command: ![alt text](https://github.com/50bvd/mfkf/blob/main/icon/icons8-chevron-right-16.png)`Set-ExecutionPolicy RemoteSigned` and accept the execution of the scripts.
+2. When your terminal is launched, execute the command: ![chevron](https://github.com/50bvd/mfkf/blob/main/icon/icons8-chevron-right-16.png)`Set-ExecutionPolicy RemoteSigned` and accept the execution of the scripts.
 3. Execute mfkf.ps1 by right clicking on the file and execute with PowerShell
