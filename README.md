@@ -7,4 +7,5 @@ This is a bug that has been hanging around for a while in the MSI SDK. It's a bu
 
 # To execute the script
 
-Use the keyboard shortcut:![alt text](https://ibb.co/cJ2wpsv "Logo Windows") + `R`
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
