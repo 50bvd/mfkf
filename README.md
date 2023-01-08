@@ -1,5 +1,5 @@
 # MSI Function key fixer
-### Your FN + F4/F5/F7 hotkeys stopped working after a MSI center update?
+### Your `FN + F4/F5/F7` hotkeys stopped working after a MSI center update?
 Use this script to patch this problem
 
 # what I found about this bug
