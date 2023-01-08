@@ -1,5 +1,5 @@
 # ![pwsh](/icon/powershell.png) MSI Center/SDK Function key fixer
-### Your `FN + F4/F5/F6/F7/F12` hotkeys stopped working after a MSI center update?
+### Your `FN + F4/F5/F6/F7/F12` hotkeys stopped working after a [MSI Center](https://www.microsoft.com/store/productId/9NQ4LGT81KGC) update?
 Use this script to patch this problem
 
 # About this bug
