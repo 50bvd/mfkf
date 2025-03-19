@@ -2,8 +2,6 @@
 ### Your `FN + F4/F5/F6/F7/F12` hotkeys stopped working after a [MSI Center](https://www.microsoft.com/store/productId/9NQ4LGT81KGC) update?
 Use this script to patch this problem
 
-## ⚠️ **This program is Outdated. MSI has fixed the original issue, and this temporary solution is no longer needed.** ⚠️
-
 ## About this bug
 This is a bug that has been hanging around for a while in the MSI SDK. It's a bug similar to the Y2K bug that makes when the software is updated after the date of 12/28/2021, the FN key doesn't work anymore
 
